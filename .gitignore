@@ -1,0 +1,10 @@
+node_modules/*
+.env
+package-lock.json
+fullstack-database.zip
+05.01.Intro-to-React.zip
+05.02.React-props-state.zip
+05.03.React-Hooks.zip
+05.04.React-Router.zip
+5.react-fullstack-project(1).zip
+06.Fullstack.zip
